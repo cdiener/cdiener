@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### Organizations
+
+Most of my work takes place in other Github organizations.
+
+[![micom-dev](https://img.shields.io/badge/-micom--dev-001?&logo=GitHub)](https://github.com/micom-dev)
+[![openCobra](https://img.shields.io/badge/-openCOBRA-001?&logo=GitHub)](https://github.com/openCOBRA)
+[![gibbons-lab](https://img.shields.io/badge/-Gibbons--Lab-000?&logo=GitHub)](https://github.com/gibbons-lab)
+
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=cdiener&show_icons=true&theme=dracula&include_all_commits=true" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdiener&layout=compact&theme=dracula&card_width=340" />
+
 <!--
 **cdiener/cdiener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
