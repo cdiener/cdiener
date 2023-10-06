@@ -10,8 +10,14 @@ Most of my work takes place in other Github organizations.
 
 ### Social
 
-[![twitter](https://img.shields.io/badge/-@thaasophobia-048?&logo=Twitter)](https://github.com/micom-dev)&nbsp;
-[![twitter](https://img.shields.io/badge/-@thaasophobia-002?&logo=Mastodon)](https://github.com/micom-dev)&nbsp;
+[![twitter](https://img.shields.io/badge/-@thaasophobia-024?&logo=Twitter)](https://twitter.com/thaasophobia)&nbsp;
+[![twitter](https://img.shields.io/badge/-@thaasophobia-002?&logo=Mastodon)](https://mstdn.science/@thaasophobia)&nbsp;
+[![twitter](https://img.shields.io/badge/-🟦&nbsp;&nbsp;@cdiener-000)](https://bsky.app/profile/cdiener.com)&nbsp;
+
+### Science
+
+[![orcid](https://img.shields.io/badge/-0000--0002--7476--0868-010?&logo=ORCID)](https://orcid.org/my-orcid?orcid=0000-0002-7476-0868)&nbsp;
+[![Google Scholar](https://img.shields.io/badge/-publications-100?&logo=Google-Scholar)](https://scholar.google.co/citations?user=5BHwbP8AAAAJ)&nbsp;
 
 ### Languages
 
@@ -26,4 +32,6 @@ Most of my work takes place in other Github organizations.
 
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 
+<a href="https://cdiener.com" target="_blank">
 <img height="160px" src="https://github-readme-stats.vercel.app/api?username=cdiener&show_icons=true&theme=dracula&include_all_commits=true" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdiener&layout=compact&theme=dracula&card_width=340" />
+</a>
