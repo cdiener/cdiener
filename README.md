@@ -1,6 +1,6 @@
-### Hi there 👋
+Hi there 👋. I'm a microbial ecologist studying the human gut microbiome. 🦠+💻 = 💓
 
-### Organizations
+---
 
 Most of my work takes place in other Github organizations.
 
@@ -27,11 +27,8 @@ Most of my work takes place in other Github organizations.
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-
-### Learning
-
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-
+![Rust](https://img.shields.io/badge/-Rust&nbsp;[learning]-000?&logo=Rust)
+  
 <a href="https://cdiener.com" target="_blank">
 <img height="160px" src="https://github-readme-stats.vercel.app/api?username=cdiener&show_icons=true&theme=dracula&include_all_commits=true" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdiener&layout=compact&theme=dracula&card_width=340" />
 </a>
