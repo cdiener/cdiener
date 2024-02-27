@@ -6,6 +6,7 @@ Most of my work takes place in other Github organizations.
 
 [![micom-dev](https://img.shields.io/badge/-micom--dev-028?&logo=GitHub)](https://github.com/micom-dev)&nbsp;
 [![openCobra](https://img.shields.io/badge/-openCOBRA-028?&logo=GitHub)](https://github.com/openCOBRA)&nbsp;
+[![gibbons-lab](https://img.shields.io/badge/-Gibbons--Lab-028?&logo=GitHub)](https://github.com/dienerlab)&nbsp;
 [![gibbons-lab](https://img.shields.io/badge/-Gibbons--Lab-028?&logo=GitHub)](https://github.com/gibbons-lab)&nbsp;
 
 ### Social
