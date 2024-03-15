@@ -1,5 +1,7 @@
 Hi there 👋. I'm a microbial ecologist studying the human gut microbiome. 🦠+💻 = 💓
 
+Our lab GitHub [can be found here](https://github.com/dienerlab).
+
 ---
 
 Most of my work takes place in other Github organizations.
