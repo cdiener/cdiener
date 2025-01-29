@@ -13,9 +13,8 @@ Most of my work takes place in other Github organizations.
 
 ### Social
 
-[![twitter](https://img.shields.io/badge/-@thaasophobia-024?&logo=Twitter)](https://twitter.com/thaasophobia)&nbsp;
-[![twitter](https://img.shields.io/badge/-@thaasophobia-002?&logo=Mastodon)](https://mstdn.science/@thaasophobia)&nbsp;
-[![twitter](https://img.shields.io/badge/-🟦&nbsp;&nbsp;@cdiener.com-000)](https://bsky.app/profile/cdiener.com)&nbsp;
+[![bluesky](https://img.shields.io/badge/-🟦&nbsp;&nbsp;@cdiener.com-000)](https://bsky.app/profile/cdiener.com)&nbsp;
+[![mastodon](https://img.shields.io/badge/-@thaasophobia-002?&logo=Mastodon)](https://mstdn.science/@thaasophobia)&nbsp;
 
 ### Science
 
