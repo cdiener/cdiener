@@ -2,9 +2,6 @@ Hi there 👋. I'm a microbial ecologist studying the human gut microbiome. 🦠
 
 Our lab GitHub [can be found here](https://github.com/dienerlab).
 
-> [!WARNING]
-> I am currently on paternity leave and may be slow to reply. Sorry.
-
 ---
 
 Most of my work takes place in other Github organizations.
