@@ -32,5 +32,5 @@ Most of my work takes place in other Github organizations.
 ![Rust](https://img.shields.io/badge/-Rust&nbsp;[learning]-000?&logo=Rust)
   
 <a href="https://cdiener.com" target="_blank">
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=cdiener&show_icons=true&theme=dracula&include_all_commits=true" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdiener&layout=compact&theme=dracula&card_width=340" />
+<img height="160px" src="https://github-readme-stats-fast.vercel.app/api?username=cdiener&show_icons=true&theme=dracula&include_all_commits=true" /> <img height="160px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cdiener&layout=compact&theme=dracula&card_width=340" />
 </a>
